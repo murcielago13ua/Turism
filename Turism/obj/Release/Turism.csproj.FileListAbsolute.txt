@@ -1,0 +1,5 @@
+C:\Users\Віталій\Documents\Visual Studio 2015\Projects\Turism\Turism\bin\Release\Turism.dll
+C:\Users\Віталій\Documents\Visual Studio 2015\Projects\Turism\Turism\bin\Release\Turism.pdb
+C:\Users\Віталій\Documents\Visual Studio 2015\Projects\Turism\Turism\obj\Release\Turism.dll
+C:\Users\Віталій\Documents\Visual Studio 2015\Projects\Turism\Turism\obj\Release\Turism.pdb
+C:\Users\Віталій\documents\visual studio 2015\Projects\Turism\Turism\obj\Release\Turism.csprojResolveAssemblyReference.cache

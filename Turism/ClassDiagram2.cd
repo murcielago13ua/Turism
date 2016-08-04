@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Turism.Competitions.DistanceResult" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAgAAAAAAgAAAAgAAoAAAAAhAAAAAAAAAAAA=</HashCode>
+      <FileName>DistanceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turism.Competitions.DistanceOrganizing" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAEAAIAAACAQAAAAAIAAAEAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>DistanceOrganizing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turism.Competitions.Competition" Collapsed="true">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Competition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turism.Competitions.LongDistanceResult" Collapsed="true">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LongDistanceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turism.Competitions.Participation" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAQGAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Participation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turism.Competitions.ShortDistanceResult" Collapsed="true">
+    <Position X="1.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAQAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ShortDistanceResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turism.Competitions.StageResult" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAEQAAAAAAAAAAAAAAAAAAACAAAAAgAAEAAAAA=</HashCode>
+      <FileName>StageResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turism.Competitions.StageResultOnCross" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQA=</HashCode>
+      <FileName>StageResultOnCross.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turism.Competitions.StageResultOnObstacleCourse" Collapsed="true">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StageResultOnObstacleCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turism.Distances.Distance" Collapsed="true">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAAAgBAAAgAAEAEIAAABECAAACAAADQgAAEAAAAA=</HashCode>
+      <FileName>Distance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

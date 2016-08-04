@@ -1,0 +1,5 @@
+C:\Users\Віталій\Documents\Visual Studio 2015\Projects\Turism\Turism\bin\Debug\Turism.dll
+C:\Users\Віталій\Documents\Visual Studio 2015\Projects\Turism\Turism\bin\Debug\Turism.pdb
+C:\Users\Віталій\Documents\Visual Studio 2015\Projects\Turism\Turism\obj\Debug\Turism.dll
+C:\Users\Віталій\Documents\Visual Studio 2015\Projects\Turism\Turism\obj\Debug\Turism.pdb
+C:\Users\Віталій\documents\visual studio 2015\Projects\Turism\Turism\obj\Debug\Turism.csprojResolveAssemblyReference.cache
